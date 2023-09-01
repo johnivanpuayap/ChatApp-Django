@@ -1,0 +1,1 @@
+ActionChains(self.driver).send_keys(message, Keys.ENTER).perform()
